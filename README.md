@@ -1,7 +1,5 @@
 # Git GitHub
 
-Instalando Git:
-
 ## Para instalar o Git:
 
 - No Windows, baixe o instalador do site oficial do Git: https://git-scm.com/
