@@ -13,3 +13,7 @@ Instalando Git:
 Se você ainda não tem o VS Code instalado, baixe e instale a partir do site oficial do Visual Studio Code.
 
 https://code.visualstudio.com/
+
+## Aula sobre como clonar repositório do GitHub no visual studio
+
+https://www.youtube.com/watch?v=wJfFUsTjWAY
